@@ -27,5 +27,10 @@
     margin-bottom: 1em;
     padding: 1em;
     max-width: 400px;
+    text-align: center;
+    margin: 0.5 auto;
+  }
+  img{
+    max-width: 300px;
   }
 </style>
