@@ -23,11 +23,7 @@
     text-align: center;
     background-color: bisque;
   }
-  img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
+ 
 </style>
 
 

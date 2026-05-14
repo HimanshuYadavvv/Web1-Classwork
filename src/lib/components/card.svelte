@@ -5,7 +5,7 @@
 
 <div>
   <img
-    src="https://i.fbcd.co/products/resized/resized-750-500/17-e41fcbc1128035669ae1e1cc212f39a2d684dc6e9994260be8615423ab696d1f.jpg"
+    src="https://xeyeti.com/wp-content/uploads/2013/08/20130816-220154.jpg"
     alt="turtle"
   />
   <aside>
@@ -29,8 +29,10 @@
     max-width: 400px;
     text-align: center;
     margin: 0.5 auto;
+    
   }
   img{
     max-width: 300px;
   }
+ 
 </style>
