@@ -1,6 +1,5 @@
 <script>
-  let { name = "Web1-Classwork" } =
-    $props();
+  let { name = "Web1-Classwork" } = $props();
 </script>
 
 <div>
@@ -15,7 +14,7 @@
       <li>Hobby 2</li>
       <li>Hobby 3</li>
     </ul>
- </aside>
+  </aside>
 </div>
 
 <div>
@@ -30,7 +29,7 @@
       <li>Hobby 2</li>
       <li>Hobby 3</li>
     </ul>
- </aside>
+  </aside>
 </div>
 
 <style>
@@ -48,12 +47,8 @@
     border: 2px solid #ccc;
     border-radius: 12px;
     background: rgb(114, 11, 11);
-
-    
   }
-  img{
+  img {
     max-width: 300px;
-    
   }
- 
 </style>

@@ -1,22 +1,21 @@
+<script>
+  import Card from "$lib/components/card.svelte";
+</script>
+
 <nav>
   <a href="/">Home</a>
   <a href="/contact">contact</a>
-  </nav>
-  
-  
-  <script>
-    import Card from "$lib/components/card.svelte"
-</script>
+</nav>
 
 <h1>Welcome to about page</h1>
 
 <p>Built with caffeine, bad ideas, and surprisingly good Wi-Fi</p>
 
-<Card name ={"Himanshu"}/>
-<Card name ={"Himanshu"}/>
-<Card name ={"Himanshu"}/>
-<Card name ={"Himanshu"}/>
-<Card name ={"Himanshu"}/>
+<Card name={"Himanshu"} />
+<Card name={"Himanshu"} />
+<Card name={"Himanshu"} />
+<Card name={"Himanshu"} />
+<Card name={"Himanshu"} />
 
 <style>
   p {
@@ -29,6 +28,9 @@
     text-align: center;
     background-color: bisque;
   }
- 
-</style>
 
+  nav {
+    text-align: center;
+    background-color: rgba(255, 145, 0, 0.308);
+  }
+</style>
