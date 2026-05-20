@@ -1,5 +1,6 @@
 <nav>
   <a href="/">Home</a>
+  <a href="/contact">contact</a>
   </nav>
   
   

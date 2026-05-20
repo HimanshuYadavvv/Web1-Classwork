@@ -5,8 +5,23 @@
 
 <div>
   <img
-    src="https://xeyeti.com/wp-content/uploads/2013/08/20130816-220154.jpg"
+    src="https://static.wikia.nocookie.net/pyruslords/images/7/77/Pikachu.png/revision/latest?cb=20131216222538"
     alt="turtle"
+  />
+  <aside>
+    <h3>{name}</h3>
+    <ul>
+      <li>Hobby 1</li>
+      <li>Hobby 2</li>
+      <li>Hobby 3</li>
+    </ul>
+ </aside>
+</div>
+
+<div>
+  <img
+    src="https://cdn.pixabay.com/photo/2021/12/26/17/31/pokemon-6895600_1280.png"
+    alt="kid"
   />
   <aside>
     <h3>{name}</h3>
