@@ -1,15 +1,15 @@
 <nav>
   <a href="/">Home</a>
-  <a href="/about">about</a> 
-</nav> 
-
-<script>
+  </nav>
+  
+  
+  <script>
     import Card from "$lib/components/card.svelte"
 </script>
 
-<h1>Web1-class</h1>
+<h1>Welcome to about page</h1>
 
-<p> Welcome to the Home page</p>
+<p>Built with caffeine, bad ideas, and surprisingly good Wi-Fi</p>
 
 <Card name ={"Himanshu"}/>
 <Card name ={"Himanshu"}/>
@@ -30,5 +30,4 @@
   }
  
 </style>
-
 

@@ -20,15 +20,20 @@
 
 <style>
   div {
-    color: blue;
-    display: "flex";
+    color: rgb(248, 163, 4);
+    display: flex;
     gap: 1em;
     border: 1px solid white;
     margin-bottom: 1em;
-    padding: 1em;
-    max-width: 400px;
+    padding: 1.5rem;
+    max-width: 500px;
     text-align: center;
-    margin: 0.5 auto;
+    margin: 2rem auto;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+    border: 2px solid #ccc;
+    border-radius: 12px;
+    background: rgb(114, 11, 11);
+
     
   }
   img{
