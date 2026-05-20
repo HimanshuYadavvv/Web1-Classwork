@@ -33,6 +33,7 @@
   }
   img{
     max-width: 300px;
+    
   }
  
 </style>
