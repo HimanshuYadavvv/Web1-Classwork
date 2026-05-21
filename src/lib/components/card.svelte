@@ -37,8 +37,8 @@
     color: rgb(248, 163, 4);
     display: flex;
     gap: 1em;
-    border: 1px solid white;
-    margin-bottom: 1em;
+    border: 1px solid rgb(0, 0, 0);
+    
     padding: 1.5rem;
     max-width: 500px;
     text-align: center;
